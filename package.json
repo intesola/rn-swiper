@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "rn-swiper",
+  "name": "tiny-rn-swiper",
   "description": "An easy and simple to use React Native component to render a high performant and easily customizable image gallery with common gestures like pan, pinch and double tap.  Supporting both iOS and Android. Free and made possible along with costly maintenance and updates by [Lue Hang](https://www.facebook.com/lue.hang) (the author).",
   "keywords": [
     "react-native-gallery-swiper",
